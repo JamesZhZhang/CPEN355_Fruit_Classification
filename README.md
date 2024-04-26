@@ -1,4 +1,4 @@
-"# CPEN355_Fruit_Classification" 
+# CPEN355_Fruit_Classification
 
 ### Importing data
 To import the fruit images:
